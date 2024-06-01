@@ -1,4 +1,4 @@
 # Downtown
 My first Git repo.
 <br>
-Author-Aman Joshi
+Author-Aman Joshi(aman)
